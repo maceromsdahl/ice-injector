@@ -1,0 +1,6 @@
+﻿  injectorc++.cpp
+  Generating code
+  Previous IPDB not found, fall back to full compilation.
+  All 103 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
+  Finished generating code
+  injectorc++.vcxproj -> D:\porject\injectorc++\x64\Release\injectorc++.exe
